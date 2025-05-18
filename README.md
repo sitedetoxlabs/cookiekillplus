@@ -9,10 +9,14 @@ But cookies aren't the only place where a website can store this sort of informa
 And unlike cookies, which are tiny — Chrome limits them to 4 KB — these other types of storage can grow truly massive, easily eating up multiple gigabytes of disk space within a short span of time.
 
 When you click Cookiekill+ while visiting a website, it:
-— Deletes all cookies for the current domain, including any subdomains
-— Deletes all localStorage and sessionStorage for that domain
-— Deletes all IndexedDB databases for that domain
-— Reloads the page with a fresh cache-busting query string, forcing it to load a fresh copy of the page
+
+- Deletes all cookies for the current domain, including any subdomains
+
+- Deletes all localStorage and sessionStorage for that domain
+
+* Deletes all IndexedDB databases for that domain
+
+* Reloads the page with a fresh cache-busting query string, forcing it to load a fresh copy of the page
 
 In effect, when that page reloads, it will be as if it was the first time you've ever visited it in that browser — without whatever baggage you've accumulated.
 
