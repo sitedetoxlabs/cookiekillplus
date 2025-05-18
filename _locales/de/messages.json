@@ -1,0 +1,17 @@
+{
+  "alertMessage": {
+    "message": "💣 $1 Cookies + localStorage + sessionStorage + IndexedDB gelöscht (falls unterstützt). Neu laden..."
+  },
+  "deletingDB": {
+    "message": "Lösche IndexedDB:"
+  },
+  "indexedDBFailed": {
+    "message": "Fehler beim Bereinigen von IndexedDB:"
+  },
+  "clearedStorage": {
+    "message": "localStorage und sessionStorage gelöscht"
+  },
+  "unsupportedDB": {
+    "message": "indexedDB.databases() wird nicht unterstützt"
+  }
+}

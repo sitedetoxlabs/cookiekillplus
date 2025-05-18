@@ -1,0 +1,17 @@
+{
+  "alertMessage": {
+    "message": "💣 Dilamet $1 kuki + storazh lec'hel + storazh echui + IndexedDB (mard eo skoret). O kargañ en-dro..."
+  },
+  "deletingDB": {
+    "message": "Emaon o tilemel IndexedDB:"
+  },
+  "indexedDBFailed": {
+    "message": "C'hwitadenn war glanadur IndexedDB:"
+  },
+  "clearedStorage": {
+    "message": "Storazh lec'hel ha storazh echui dilamet"
+  },
+  "unsupportedDB": {
+    "message": "indexedDB.databases() n'eo ket skoret"
+  }
+}

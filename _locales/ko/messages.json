@@ -1,0 +1,17 @@
+{
+  "alertMessage": {
+    "message": "💣 $1개의 쿠키, localStorage, sessionStorage 및 IndexedDB(지원되는 경우)를 삭제했습니다. 다시 로딩 중..."
+  },
+  "deletingDB": {
+    "message": "IndexedDB 삭제 중:"
+  },
+  "indexedDBFailed": {
+    "message": "IndexedDB 정리에 실패했습니다:"
+  },
+  "clearedStorage": {
+    "message": "localStorage 및 sessionStorage 삭제됨"
+  },
+  "unsupportedDB": {
+    "message": "indexedDB.databases()는 지원되지 않음"
+  }
+}

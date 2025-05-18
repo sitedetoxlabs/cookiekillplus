@@ -1,0 +1,17 @@
+{
+  "alertMessage": {
+    "message": "💣 $1 cookies + localStorage + sessionStorage + IndexedDB supprimés (si pris en charge). Rechargement..."
+  },
+  "deletingDB": {
+    "message": "Suppression de IndexedDB :"
+  },
+  "indexedDBFailed": {
+    "message": "Échec du nettoyage de IndexedDB :"
+  },
+  "clearedStorage": {
+    "message": "localStorage et sessionStorage effacés"
+  },
+  "unsupportedDB": {
+    "message": "indexedDB.databases() non pris en charge"
+  }
+}

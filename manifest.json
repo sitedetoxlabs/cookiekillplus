@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Cookiekill+",
+  "version": "1.0",
+  "description": "Clear all cookies, localStorage, sessionStorage, and IndexedDB for the current site.",
+  "permissions": ["scripting", "activeTab"],
+  "default_locale": "en",
+  "action": {
+    "default_title": "Cookiekill+",
+    "default_icon": {
+      "16": "icon.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "alertMessage": {
+    "message": "💣 Nuked $1 cookies + localStorage + sessionStorage + IndexedDB (if supported). Reloading..."
+  },
+  "deletingDB": {
+    "message": "Deleting IndexedDB:"
+  },
+  "indexedDBFailed": {
+    "message": "IndexedDB cleanup failed:"
+  },
+  "clearedStorage": {
+    "message": "Cleared localStorage and sessionStorage"
+  },
+  "unsupportedDB": {
+    "message": "indexedDB.databases() not supported"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "alertMessage": {
+    "message": "💣 已清除 $1 个 Cookies、本地存储、会话存储和 IndexedDB（如果支持）。正在重新加载..."
+  },
+  "deletingDB": {
+    "message": "正在删除 IndexedDB："
+  },
+  "indexedDBFailed": {
+    "message": "IndexedDB 清理失败："
+  },
+  "clearedStorage": {
+    "message": "已清除 localStorage 和 sessionStorage"
+  },
+  "unsupportedDB": {
+    "message": "indexedDB.databases() 不受支持"
+  }
+}

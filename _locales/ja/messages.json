@@ -1,0 +1,17 @@
+{
+  "alertMessage": {
+    "message": "💣 $1 個のクッキー、localStorage、sessionStorage、および IndexedDB（対応している場合）を削除しました。再読み込み中..."
+  },
+  "deletingDB": {
+    "message": "IndexedDB を削除中："
+  },
+  "indexedDBFailed": {
+    "message": "IndexedDB のクリーンアップに失敗しました："
+  },
+  "clearedStorage": {
+    "message": "localStorage と sessionStorage をクリアしました"
+  },
+  "unsupportedDB": {
+    "message": "indexedDB.databases() はサポートされていません"
+  }
+}
